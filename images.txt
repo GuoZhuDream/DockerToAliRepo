@@ -18,6 +18,7 @@
 #nacos/nacos-server:v2.1.0
 #rocketmq:4.8.0
 #docker.io/calico/cni:v3.20.6
-docker.io/calico/pod2daemon-flexvol:v3.20.6
+#docker.io/calico/pod2daemon-flexvol:v3.20.6
+docker.io/calico/node:v3.20.6
 
 
