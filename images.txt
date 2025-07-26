@@ -21,6 +21,7 @@
 #docker.io/calico/pod2daemon-flexvol:v3.20.6
 #docker.io/calico/node:v3.20.6
 #tomcat:9.0.55
-nginx
+#nginx
+docker.io/jettech/kube-webhook-certgen:v1.5.1
 
 
