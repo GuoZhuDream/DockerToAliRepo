@@ -22,6 +22,7 @@
 #docker.io/calico/node:v3.20.6
 #tomcat:9.0.55
 #nginx
-docker.io/jettech/kube-webhook-certgen:v1.5.1
+#docker.io/jettech/kube-webhook-certgen:v1.5.1
+java:8
 
 
